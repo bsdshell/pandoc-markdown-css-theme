@@ -2,6 +2,24 @@
 
 <https://jez.io/pandoc-markdown-css-theme/>
 
+
+## My Steps generate Html file from markdown file
+```bash
+    git clone the repos.
+    cd pandoc-markdown-css-theme
+
+    # Add your markdown file src/a.md
+
+    make clean
+    make
+    make watch
+
+    # watch does not work on my MacOS now
+    
+    # Generate Html file
+    docs/a.html 
+```
+
 ## Developing
 
 ```
