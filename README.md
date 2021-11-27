@@ -3,7 +3,7 @@
 <https://jez.io/pandoc-markdown-css-theme/>
 
 
-## My Steps generate Html file from markdown file
+## How to generate Html file from markdown file
 ```bash
     git clone the repos.
     cd pandoc-markdown-css-theme
